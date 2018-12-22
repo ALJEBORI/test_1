@@ -1,0 +1,44 @@
+1- TO work on a directory you created use git init to create a git repo
+2- to clone a repo from a web sit:
+   a- click clone and then copu the url
+   b- from your comand line write the command git clone (the url you copied )
+This will clone all of the url to our desktop with same repo name of the original site
+
+Q) How to see the current working directory?
+  use pwd -W
+
+Q) How to change my directory
+   use cd (required dir path)  Note: Change \ to /
+Q) How to intialize my dir to github
+    use git init   (You have to be within your required dir)
+Q) How to create a new dir
+   mkdir dir_name  (you have to be in the required location)
+Q) How to clone repository (from github site) to your local repo?
+    use git clone PATH OF YOUGITHUB DIR (copy from the site in the form https//...)   your local dir
+Q) How to create a file in local repo?
+    touch filename.txt or any required extension
+Q) How to write to a file
+   echo "text you want">filename
+Q) How to add file to git repo?
+   git add filename
+Q) What are file state in git?
+   1- untrackd : newly created file
+   2- unmodified: newly ADDED  file 
+   3- MODIFIED: file is edited
+   4- staged:in github 
+to go from untracked to unmodified use ADD
+   from staged to unmodified use commit
+   from unmodified to untracked use REMOVE
+   from staged to untracked use remove
+Q)How to add all my files in my repo use
+  git add.
+Note: The commit command is local to your own repository, nobody except you can see it
+Q) How to commit a file?
+   git commit -m "message of changes"
+Q) How to commit all my files in the repo?
+   git commit -m " ........."
+Q) How to see all changes you did on a file?
+    git log
+
+
+
