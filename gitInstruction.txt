@@ -41,6 +41,3 @@ Q) How to commit all my files in the repo?
    git commit -m " ........."
 Q) How to see all changes you did on a file?
     git log
-
-
-
