@@ -1,3 +1,5 @@
+GIT HUB WORKING INSTRUCTIONS
+
 1- TO work on a directory you created use git init to create a git repo
 2- to clone a repo from a web sit:
    a- click clone and then copu the url
