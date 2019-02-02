@@ -1,9 +1,5 @@
 //============================================================================
-<<<<<<< HEAD
-// Name        : HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
-=======
-// Name        : TTTTTTTTTTTTTTTTTT
->>>>>>> testBR
+// Name        : NAME NAME NAME NAME NAME NAME NAME
 // Author      : Moh_ALjebori
 // Version     :version 1.0
 // Copyright   : this program is copyright protected
