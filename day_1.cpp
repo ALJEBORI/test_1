@@ -6,7 +6,7 @@
 // Description : Hello World in C++, Ansi-style
 //============================================================================
 
-#include <iostream>OOOOOOOOOOOOOOOOOO
+#include <iostream>
 #include<string.h>
 #include<algorithm>
 using namespace std;
